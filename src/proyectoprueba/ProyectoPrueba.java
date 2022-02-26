@@ -15,6 +15,7 @@ public class ProyectoPrueba {
      */
     public static void main(String[] args) {
         System.out.println("hola");
+        System.out.println("este es otro mensaje");
     }
     
 }
